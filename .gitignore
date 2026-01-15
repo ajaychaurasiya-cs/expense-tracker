@@ -1,0 +1,14 @@
+# ENV
+.env
+
+# Backend
+expense-tracker-backend/node_modules/
+
+# Frontend (React Native)
+expense/node_modules/
+expense/android/app/build/
+expense/ios/build/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
