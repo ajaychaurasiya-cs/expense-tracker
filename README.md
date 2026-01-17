@@ -1,4 +1,5 @@
-# 💰 Expense Tracker App
+# 💰 Expense Tracker App<img width="1920" height="1080" alt="screens" src="https://github.com/user-attachments/assets/5dd37cb6-4e40-4b75-a694-714566d95941" />
+
 
 A full-stack **Expense Tracker Mobile Application** built using **React Native** for the frontend and **Node.js + Express** for the backend.  
 This project helps users track their daily expenses, manage spending categories, and maintain financial discipline.
